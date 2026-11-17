@@ -1,8 +1,8 @@
 # GTA VI Launch-Day Twitch CCU Forecast Engine
 
-[![make.fun](https://make.fun/badge/competition/gta6-twitch-ccu-forecast-01)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
-[![Status](https://make.fun/badge/status/gta6-twitch-ccu-forecast-01)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
-[![Prize](https://make.fun/badge/prize/gta6-twitch-ccu-forecast-01)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/chierce/gta6-twitch-ccu-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/chierce/gta6-twitch-ccu-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 An empirical log-normal quantile forecasting engine for Grand Theft Auto VI launch-day Twitch concurrent viewership (CCU), built for [make.fun](https://make.fun/bounty/gta6-twitch-ccu-forecast-01).
 
